@@ -1,0 +1,12 @@
+node_modules/
+dist/
+dist-server/
+.env
+.env.*
+!.env.example
+coverage/
+.vite/
+.playwright-cli/
+output/
+.dev-server.log
+npm-debug.log*
